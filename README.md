@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá!! Eu sou o Caio Veloso 👋<br>📖 Estudante de Ciências da Computação na Universidade Federal de São Paulo</p>
+<p align="left">Olá!! Eu sou o Caio Veloso 👋<br>📖 Estudante de Computação na Universidade Federal de São Paulo</p>
 
 ###
 
